@@ -1,0 +1,6 @@
+{
+  "name": "Gado MZ — Feira de Gado de Moçambique",
+  "description": "Plataforma móvel para anunciar, pesquisar e contactar criadores e vendedores de gado em Moçambique via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
